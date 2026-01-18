@@ -1,0 +1,34 @@
+/* deliverypage.css */
+h1 {
+    color: #4CAF50;
+  }
+  
+  form, ul {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin-top: 15px;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #367c39;
+  }
+  
+  a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  a:hover {
+    background-color: #0056b3;
+  }
+  
